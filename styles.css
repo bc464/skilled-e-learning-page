@@ -283,7 +283,7 @@ p.extra-margin {
         display: none;
     }
     .image-mobile {
-        background: url('./assets/image-hero-mobile.png') no-repeat;
+        background: url('./assets/image-hero-mobile.png');
         height: 100%;
         max-width: 100%; 
     }
