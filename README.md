@@ -27,7 +27,7 @@ Users should be able to:
 
 ![Screenshot 2023-03-05 at 12-06-44 Frontend Mentor Skilled e-learning landing page](https://user-images.githubusercontent.com/82536545/222954652-13adbd64-06df-4a69-9178-50c2fbd08c06.png)
 
-- Solution URL: https://bc464.github.io/3-column-preview-card-component-main/
+- Solution URL: https://bc464.github.io/skilled-e-learning-page/
 
 ### Built with
 
