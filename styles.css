@@ -78,7 +78,7 @@ h1 {
 
 /* ***HERO IMAGES**** */
 .image-hero {
-    background: url('../assets/image-hero-desktop.png') no-repeat;
+    background: url('./assets/image-hero-desktop.png') no-repeat;
     height: 100%;
     max-width: 100%;
 }
@@ -218,7 +218,7 @@ p.extra-margin {
         display: none;
     }
     .image-tablet {
-        background: url('../assets/image-hero-tablet.png') ;
+        background: url('./assets/image-hero-tablet.png') ;
         height: 100%;
         max-width: 130%; 
     }    
