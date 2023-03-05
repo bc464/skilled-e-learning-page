@@ -130,7 +130,7 @@ h1 {
     left: 32px;
 }
 .container-content {
-    padding: 64px 32px 40px;
+    padding: 64px 32px 30px;
 }
 .container-content h2 {
     font-size: 24px;
@@ -309,6 +309,12 @@ p.extra-margin {
     }
     .container-content h2{
         margin-top: 20px;
+    }
+    .container-content p {
+        margin-bottom: 10px;
+    }
+    p.extra-margin {
+        margin-bottom: 0;
     }
     .container-content__image {
         top: 0;
